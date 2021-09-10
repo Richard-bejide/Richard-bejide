@@ -3,10 +3,10 @@ I'm a mobile app developer.
 I am passionate about building cool stuff with flutter. I am actively looking for opportunities to improve my growth in the field.
 
 
-- 🤝 Open for collaborations in app developement with flutter.
--🔭 I’m currently working on projects here and there ...
-👯 I’m looking to collaborate on flutter or dart projects
-💬 Ask me about flutter/dart
-⚡ Fun fact: 🤷🏽‍♂️
+<p> 🤝 Open for collaborations in app developement with flutter.</p>
+<P>🔭 I’m currently working on projects here and there ...</p>
+<p>👯 I’m looking to collaborate on flutter or dart projects.</p>
+<p>💬 Ask me about flutter/dart</p>
+<p>⚡ Fun fact: 🤷🏽‍♂️</p>
 
 
